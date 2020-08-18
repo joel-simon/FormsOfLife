@@ -1,0 +1,8 @@
+build/
+__pycache__/
+*.html
+*.so
+*.c
+*.o
+.ipynb_checkpoints/
+results*
